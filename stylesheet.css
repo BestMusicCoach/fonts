@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Mic 32 New Rg';
+    src: url('Mic32New-Bold.eot');
+    src: url('Mic32New-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Mic32New-Bold.woff2') format('woff2'),
+        url('Mic32New-Bold.woff') format('woff'),
+        url('Mic32New-Bold.ttf') format('truetype'),
+        url('Mic32New-Bold.svg#Mic32New-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('Avenir-Medium.eot');
+    src: url('Avenir-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Avenir-Medium.woff2') format('woff2'),
+        url('Avenir-Medium.woff') format('woff'),
+        url('Avenir-Medium.ttf') format('truetype'),
+        url('Avenir-Medium.svg#Avenir-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('Avenir-Heavy.eot');
+    src: url('Avenir-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Avenir-Heavy.woff2') format('woff2'),
+        url('Avenir-Heavy.woff') format('woff'),
+        url('Avenir-Heavy.ttf') format('truetype'),
+        url('Avenir-Heavy.svg#Avenir-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
